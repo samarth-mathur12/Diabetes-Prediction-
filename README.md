@@ -21,8 +21,8 @@ pandas for data manipulation and analysis matplotlib.pyplot and Seaborn for data
 MinMaxScaler from sklearn.preprocessing was used to normalize the data values between 0 and 1.
 
 ## Results
-The model achieves an accuracy of 73.38% on the test set. 
-Below are some key metrics(in %):
+The model achieves an accuracy of 73.38% on the test set. \br
+Below are some key metrics(in %):<br>
 Precision: 62.06 
 Recall: 65.454
 F1-Score: 63.71
